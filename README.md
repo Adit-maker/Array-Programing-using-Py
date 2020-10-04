@@ -1,6 +1,4 @@
 # Array-Programing-using-Py
-#Array-Programing-using-Py
-
 TASK 3:
 The below mentioned task3.1,task3.2,task 3.3, task 3.4 and task 3.5 must be in a single program by creating three different functions named as A B C D and E respectively.
 
